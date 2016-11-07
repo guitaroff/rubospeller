@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require 'rubospeller'
+phrase = ARGV.join(" ")
+RuboSpeller.print phrase
