@@ -4,7 +4,7 @@ Gem::Specification.new do |s|
   s.licenses    = ['MIT']
   s.date        = '2016-11-07'
   s.summary     = "yandex speller!"
-  s.description = "Spell checking using Yandex peller"
+  s.description = "Spell checking using Yandex speller"
   s.authors     = ["Andrey Gedeonov"]
   s.email       = 'ag82pishi@yandex.ru'
 
