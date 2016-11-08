@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'rubospeller'
-  s.version     = '1.0.1'
+  s.version     = '1.0.2'
   s.licenses    = ['MIT']
   s.date        = '2016-11-07'
   s.summary     = "yandex speller!"
