@@ -1,15 +1,23 @@
 # rubospeller
 Spell checking using Yandex speller
 ====================================  
-**Using.**  
+Install:  
+```
+gem install rubospeller
+```  
+In Rails, add it to your Gemfile:  
+```
+gem 'rubospeller'
+```
+**Getting Started**  
 1. 
-  irb or console( or Ruby/Rails project):  
+  irb, console( or Ruby/Rails project):  
   `RuboSpeller.print 'yllow autumnn' ` 
     
 result -  
 `{"yllow" => ["yellow"], "autumnn" => ["autumn"]} `  
 2. 
   terminal:  
-  `rubospeller 'yllow autumnn'`  
+  `rubospeller yllow autumnn`  
   result -  
   '{"yllow" => ["yellow"], "autumnn" => ["autumn"]}'  
