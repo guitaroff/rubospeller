@@ -12,8 +12,7 @@ gem 'rubospeller'
 **Getting Started**  
 1. 
   irb, console( or Ruby/Rails project):  
-  `RuboSpeller.print 'yllow autumnn' ` 
-    
+  `RuboSpeller.print 'yllow autumnn' `  
 result -  
 `{"yllow" => ["yellow"], "autumnn" => ["autumn"]} `  
 2. 
