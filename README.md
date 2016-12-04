@@ -1,5 +1,5 @@
 # rubospeller
-Spell checking using Yandex speller
+Spell checking using Yandex speller(English, Russian)
 ====================================  
 Install:  
 ```
